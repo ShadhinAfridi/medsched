@@ -33,7 +33,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests to h
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/ShadhinAfridi/medsched/blob/main/LICENSE).
+This project is licensed under the [GNU General Public License v3.0](https://github.com/ShadhinAfridi/medsched/blob/main/LICENSE).
 
 ## Acknowledgments
 
